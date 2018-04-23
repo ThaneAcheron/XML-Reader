@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Roots>
+<Root Rating="6">
+<Name>Weather Service</Name>
+<Description>Latest weather information</Description>
+<Website>http://www.weatherserv.ws</Website>
+</Root>
+<Root Rating="9">
+<Name>Sports Service</Name>
+<Description>Sport updates</Description>
+<Website>http://www.sportsserve.ss</Website>
+</Root>
+<Root Rating="7">
+<Name>News 247</Name> 
+Advanced C# Programming | V2.1 April 2014    Page 227of 314
+<Description>Live news</Description>
+<Website>http://www.news247.nw</Website>
+</Root>
+</Roots>

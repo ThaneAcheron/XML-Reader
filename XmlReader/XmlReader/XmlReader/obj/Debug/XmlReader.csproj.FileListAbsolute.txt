@@ -1,0 +1,10 @@
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\Xml\XmlReader\XmlReader\XmlReader\bin\Debug\XmlReader.exe.config
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\Xml\XmlReader\XmlReader\XmlReader\bin\Debug\Tickets.xml
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\Xml\XmlReader\XmlReader\XmlReader\bin\Debug\XmlReader.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\Xml\XmlReader\XmlReader\XmlReader\bin\Debug\XmlReader.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\Xml\XmlReader\XmlReader\XmlReader\obj\Debug\XmlReader.csprojResolveAssemblyReference.cache
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\Xml\XmlReader\XmlReader\XmlReader\obj\Debug\XmlReader.Form1.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\Xml\XmlReader\XmlReader\XmlReader\obj\Debug\XmlReader.Properties.Resources.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\Xml\XmlReader\XmlReader\XmlReader\obj\Debug\XmlReader.csproj.GenerateResource.Cache
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\Xml\XmlReader\XmlReader\XmlReader\obj\Debug\XmlReader.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding\Projects\Xml\XmlReader\XmlReader\XmlReader\obj\Debug\XmlReader.pdb
